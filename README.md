@@ -1,5 +1,5 @@
 # VOCALIST
-### Speak, Organize, Accomplish - Your AI Voice Task Manager
+### Speak, Organize, Accomplish - Your Voice Task Manager
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
