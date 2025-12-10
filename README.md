@@ -1,5 +1,5 @@
 # VOCALIST
-### Speak, Organize, Accomplish - Your AI Voice Task Manager
+### Speak, Organize, Accomplish - Your Voice Task Manager
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -58,7 +58,6 @@ In a fast-paced world, typing out to-do lists slows you down. Vocalist provides:
 - 📅 **Intelligent Dates**: "Call Mom in 20 minutes" automatically sets a reminder.
 - 📂 **Dynamic Categories**: Create and organize custom lists like Work, Personal, or Gym.
 - 🔔 **Real-Time Reminders**: Accurate notifications ensure you never miss a deadline.
-- 🌓 **Dark Mode**: Full support for light and dark themes.
 - ⚡ **Smooth Animations**: Engaging transitions powered by Flutter Animate.
 
 <br>
