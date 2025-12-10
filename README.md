@@ -171,7 +171,7 @@ You can manage your lists entirely by voice.
 
 | Home Screen | Upcoming Tasks | Complete Tasks | Profile | Notifications |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/screenshots/home_screen.jpg" width="240" /> | <img src="assets/screenshots/upcoming_screen.jpg" width="240" /> | <img src="assets/screenshots/complete_screen.jpg" width="240" /> | <img src="assets/screenshots/profile_screen.jpg" width="240" alt="Upload Profile" /> | <img src="assets/screenshots/notification_screen.jpg" width="240" alt="Upload Notification" /> |
+| <img src="assets/screenshots/home.png" width="240" /> | <img src="assets/screenshots/upcoming_page.png" width="240" /> | <img src="assets/screenshots/complete_page.png" width="240" /> | <img src="assets/screenshots/profile_and_stats.png" width="240" alt="Upload Profile" /> | <img src="assets/screenshots/notification.png" width="240" alt="Upload Notification" /> |
 
 <br>
 
